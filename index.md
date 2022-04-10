@@ -2,13 +2,15 @@
 layout: homepage
 ---
 
-## About Me
+## 关于我（About Me）
 
-I am a Ph.D. student at ...
+一位光机工程师。（I am an opto-mechanical engineer.）
 
-## Research Interests
+## 研究领域（Research Interests）
 
+- **柔顺机构设计:** 新型柔顺构型, 耦合柔顺机构, 柔顺机构在光机仪器中的应用
 - **Computer Vision:** image recognition, image generation, video captioning
+- **光机集成分析:** 光机结构设计，光机热集成分析，光机系统静、动力学设计分析
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
